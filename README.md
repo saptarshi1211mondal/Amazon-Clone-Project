@@ -1,4 +1,4 @@
-# Amazon-Clone-Project -  <a class="link-tab" href="[https://example.com](https://saptarshi1211mondal.github.io/Amazon-Clone-Project/)">Live</a>
+# Amazon-Clone-Project - <a href="https://saptarshi1211mondal.github.io/Amazon-Clone-Project/">Live</a>
 - Created an Amazon clone webpage using HTML and CSS.
 - Utilized a variety of HTML tags for structuring the content.
 - Employed various CSS concepts to style and format the webpage.
