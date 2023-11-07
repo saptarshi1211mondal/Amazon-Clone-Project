@@ -1,2 +1,8 @@
 # Amazon-Clone-Project
-I've successfully designed and developed Amazon clone webpage using HTML and CSS, incorporating a wide range of HTML tags and leveraging various CSS concepts. This project closely mirrors the aesthetics design  of the Amazon website, demonstrating my proficiency in web development and design.
+- Created an Amazon clone webpage using HTML and CSS.
+- Utilized a variety of HTML tags for structuring the content.
+- Employed various CSS concepts to style and format the webpage.
+- Achieved a design closely resembling the aesthetics of the Amazon website.
+- Demonstrated proficiency in web development and design through this project.
+
+- 
